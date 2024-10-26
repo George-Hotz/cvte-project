@@ -1,0 +1,13 @@
+{    
+    "uart": {
+        "baudrate": 115200,
+        "dataBits": 8,
+        "parity": "none",
+        "stopBits": 1
+    },
+
+    "function":{
+        "query_version":3,
+        "query_platform":1
+    }
+}
